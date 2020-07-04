@@ -15,7 +15,7 @@ app.use(express.json());
 
 app.use(express.static("public"));
 
-
+n
 
 mongoose.connect(
   process.env.MONGODB_URI || "mongodb://localhost/budget",
