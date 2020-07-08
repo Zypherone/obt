@@ -24,8 +24,10 @@ SO THAT my account balance is accurate when I am traveling. Giving a fast and ea
 - [Built With](#Built_With)
 - [Code Style](#Code_Style)
 - [Installation](#Installation)
-- [Usage](#Usage)
 - [Demo](#Demo)
+- [Usage](#Usage)
+- [Credits](#Credits)
+- [Contributing](#Contributing)
 - [License](#License)
 
 ---
@@ -53,14 +55,13 @@ Download (and unpack) or clone the repo, then using a CLI run the following:
 npm install
 ```
 
-## Usage
-Then run the application by typing ```npm run build``` into the CLI:
+Then run the webpack build by typing ```npm run build``` into the CLI:
 
 ```
 npm run build
 ```
 
-Followed by typing ```npm run start``` into the CLI:
+Followed by typing ```npm run start``` to run the application into the CLI:
 
 ```
 npm run start
@@ -70,6 +71,15 @@ Then use your preferred browser to access the Budget Tracker App.
 ## Demo
 
 Click https://infinite-cove-50408.herokuapp.com/ to visit a live demo.
+
+## Usage 
+The primary purpose of this was to meet the requirements of a homework assignment. The major goal seems to be practice with MongoDB and Mongoose You could use it to track a workout, or as the basis of a workout app.
+
+## Credits 
+I created this code based on the homework prompt created by Triology Education Services. Majority of the front end code was provided in the homework prompt. Certain pieces of code I used online resources for help. I have included citations in the form of comments throughout the code. Image credits are located below the image.
+
+## Contributing 
+I was the only one to work on this project, but of course I had help from my instructor, TA's, and classmates.
 
 ## License
 | Details | Author |
