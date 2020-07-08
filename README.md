@@ -16,7 +16,7 @@
 # Unit 18 PWA Homework: Online/Offline Budget Trackers
 
 AS AN avid traveller, I WANT to be able to track my withdrawals and deposits with or without a data/internet connection
-SO THAT my account balance is accurate when I am traveling. Giving a fast and easy way to track my money is important, but allowing them to access that information anytime is even more important. Having offline functionality is paramount to our applications success.
+SO THAT my account balance is accurate when I am traveling. Giving a fast and easy way to track my money at any given day or night.
 
 
 #### Table of Contents
@@ -38,7 +38,8 @@ SO THAT my account balance is accurate when I am traveling. Giving a fast and ea
 ## Built with
 - [Node.js](https://nodejs.org/en/)
 - [Express.js](https://expressjs.com/)
-- [uuidv4](https://www.npmjs.com/package/uuidv4)
+- [Babel](https://babeljs.io/)
+- [Webpack](https://webpack.js.org/)
 
 ## Code style
 [![JS Standard][build-style-shield]][build-style-url] - https://github.com/standard/standard
@@ -53,17 +54,22 @@ npm install
 ```
 
 ## Usage
-Then run the application by typing ```node server``` into the CLI:
+Then run the application by typing ```npm run build``` into the CLI:
 
 ```
-node server
+npm run build
 ```
 
-Then use your preferred browser to access the Note Taker App.
+Followed by typing ```npm run start``` into the CLI:
+
+```
+npm run start
+```
+Then use your preferred browser to access the Budget Tracker App.
 
 ## Demo
 
-Click https://nameless-coast-02770.herokuapp.com/ to visit a live demo.
+Click https://infinite-cove-50408.herokuapp.com/ to visit a live demo.
 
 ## License
 | Details | Author |
