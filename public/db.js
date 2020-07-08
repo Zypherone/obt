@@ -25,11 +25,7 @@ request.onerror = function (event) {
   console.log("Ok" + event.target.errorCode);
 };
 
-<<<<<<< HEAD
-function saveRecord(record) {
-=======
 export default function saveRecord(record) {
->>>>>>> 122f238... PWA bundle files added
   console.log("I'm a store");
   const transaction = db.transaction(["pending"], "readwrite");
   const store = transaction.objectStore("pending");
