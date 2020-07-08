@@ -5,6 +5,7 @@ const path = require("path");
 const config = {
     entry: {
         main: [
+            path.join(__dirname + "/public/sw.js"),
             path.join(__dirname + "/public/db.js"),
             path.join(__dirname + "/public/index.js")
         ]
