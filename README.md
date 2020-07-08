@@ -1,7 +1,3 @@
-# obt
-Unit 18 PWA Homework: Online/Offline Budget Trackers
-
-
 [contributors-shield]: https://img.shields.io/github/contributors/Zypherone/obt.svg?style=flat-square
 [contributors-url]: https://github.com/Zypherone/obt/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/Zypherone/obt.svg?style=flat-square
@@ -17,8 +13,11 @@ Unit 18 PWA Homework: Online/Offline Budget Trackers
 
 [![Contributors][contributors-shield]][contributors-url] [![Forks][forks-shield]][forks-url] [![Stargazers][stars-shield]][stars-url] [![Issues][issues-shield]][issues-url] [![JS Standard][build-style-shield]][build-style-url] [![MIT License][license-shield]][license-url]
 
-# Note Taker
-An application that can be used to write, save, and delete notes. This application will use an express backend and save and retrieve note data from a JSON file.
+# Unit 18 PWA Homework: Online/Offline Budget Trackers
+
+AS AN avid traveller, I WANT to be able to track my withdrawals and deposits with or without a data/internet connection
+SO THAT my account balance is accurate when I am traveling. Giving a fast and easy way to track my money is important, but allowing them to access that information anytime is even more important. Having offline functionality is paramount to our applications success.
+
 
 #### Table of Contents
 - [Screenshots](#Screenshots)
